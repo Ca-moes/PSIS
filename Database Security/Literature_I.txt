@@ -1,0 +1,13 @@
+I send you the literature for database security topic in the attachment.
+
+Concerning the code, you need to know GRANT, REVOKE, SET ROLE (both logic and syntax),
+and the syntax for VIEWs.
+ 
+Additional (optional) readings about database access control:
+
+- http://www.techotopia.com/index.php/Mandatory,_Discretionary,_Role_and_Rule_Based_Access_Control
+- www.windowsecurity.com/uplarticle/2/Access_Control_WP.pdf
+- [DEPRECATED] https://www.owasp.org/index.php/Access_Control_Cheat_Sheet
+	   [NEW] https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html
+
+You have to be able to explain mandatory, discretionary and rule based access control.
